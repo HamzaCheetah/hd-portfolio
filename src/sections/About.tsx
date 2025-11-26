@@ -6,7 +6,6 @@ import { CardHeader } from "@/components/CardHeader";
 import { SectionHeader } from "@/components/SectionHeader";
 import { ToolboxItems } from "@/components/ToolboxItems";
 import { toolBoxItems } from "@/data/data";
-import { BookCoverImage, MapImage, EmojiSmileImage } from "@/assets";
 import { useRef } from "react";
 
 export const About = () => {
@@ -45,17 +44,17 @@ export const About = () => {
           <div className="grid grid-cols-1 gap-8 md:grid-cols-5 lg:grid-cols-3">
             <div className="mt-14">
                <Card className="min-h-[250px] md:col-span-2 lg:col-span-1">
-              <CardHeader
+             <CardHeader
                 title="Education"
                 className="pb-9"
                 description={
-                    <>
-                      BS Computer Science (BSCS) <br />
-                      Hajvery University Lahore <br />
-                      CGPA: 3.13 <br />
-                      2019 – 2023
-                    </>
-                  }
+                  <>
+                    BS Computer Science (BSCS) <br />
+                    Hajvery University Lahore <br />
+                    CGPA: 3.13 <br />
+                    2019 – 2023
+                  </>
+                }
               />
             </Card>
             </div>
