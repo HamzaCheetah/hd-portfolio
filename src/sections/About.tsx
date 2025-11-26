@@ -5,7 +5,7 @@ import { Card } from "@/components/Card";
 import { CardHeader } from "@/components/CardHeader";
 import { SectionHeader } from "@/components/SectionHeader";
 import { ToolboxItems } from "@/components/ToolboxItems";
-import { hobbies, toolBoxItems } from "@/data/data";
+import { toolBoxItems } from "@/data/data";
 import { BookCoverImage, MapImage, EmojiSmileImage } from "@/assets";
 import { useRef } from "react";
 
