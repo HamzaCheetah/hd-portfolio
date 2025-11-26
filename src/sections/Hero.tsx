@@ -124,8 +124,8 @@ export const Hero = () => {
        <div className="max-w-lg mx-auto">
       `    <h1 className="text-3xl md:text-5xl font-serif text-center tracking-wide mt-8 
                         animate-fade-in">
-            Hi, I'm Hamza — Shopify & Front-End Developer
-          </h1>
+          Hi, I am Hamza &mdash; Shopify &amp; Front-End Developer
+            </h1>
 
         </div>
 
