@@ -60,7 +60,7 @@ export const About = () => {
             </div>
             <Card className="h-auto flex flex-col md:col-span-3 lg:col-span-2">
               <CardHeader
-                title="Beyond the Code"
+                title="Experience"
                 className="px-6"
               />
               <div className="text-sm lg:text-base text-white/70 leading-relaxed w-full overflow-hidden px-[50px] pb-[30px]">
